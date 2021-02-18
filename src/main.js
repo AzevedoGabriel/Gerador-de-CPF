@@ -1,3 +1,6 @@
+import 'core-js/stable';
+import 'regenerator-runtime/runtime';
+
 import GeraCPF from './modules/GeraCPF';
 
 import './assets/css/style.css';
